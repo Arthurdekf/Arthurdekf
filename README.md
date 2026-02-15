@@ -36,14 +36,6 @@ Classificação do Rice Dataset (Cammeo x Osmancik).
 
 ---
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurdekf&show_icons=true&theme=tokyonight" />
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arthurdekf&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo Atual
 
 Buscando oportunidades remotas internacionais para crescimento profissional em desenvolvimento Front-End e Mobile.

@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur!
 
-🎓 Estudante de Engenharia de Software  
+🎓 Formado em Engenharia de Software  
 💻 Desenvolvedor Full-Stack com foco em Front-End  
 🚀 Apaixonado por tecnologia, jogos e produtos digitais
 

@@ -13,11 +13,12 @@ Fã da Apple, Sony, Volkswagen e Rockstar (as vezes Bethesda)
 Sou desenvolvedor com experiência em:
 
 - Java (Spring boot, RMI, Swing)
+- HTML, CSS, JavaScript, ReactJS
 - Flutter & FlutterFlow
 - Firebase (NoSQL)
 - C / Redes Neurais (MLP + Backpropagation)
 - Unity (C#)
-- HTML, CSS, JavaScript
+
 
 Tenho forte facilidade em aprender novas tecnologias através de documentação e prática.
 

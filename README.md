@@ -26,21 +26,21 @@ Tenho forte facilidade em aprender novas tecnologias através de documentação 
 ## 🚀 Projetos em destaque
 
 📱 Aplicativo de Eventos (TCC)
-https://github.com/Arthurdekf/Celebr8
-Sistema multiplataforma para centralização e divulgação de eventos.
+- https://github.com/Arthurdekf/Celebr8
+- Sistema multiplataforma para centralização e divulgação de eventos.
 
 🎮 Jogo de Corrida em Unity
-https://github.com/Arthurdekf/RacingShooter
-Projeto com sistema de pontuação, tiros e publicação web.
+- https://github.com/Arthurdekf/RacingShooter
+- Projeto com sistema de pontuação, tiros e publicação web.
 
 🧠 Implementação de Rede Neural MLP em C  
-Classificação do Rice Dataset (Cammeo x Osmancik).
+- Classificação do Rice Dataset (Cammeo x Osmancik).
 
 ---
 
 ## 🌟 Estatísticas GitHub
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurdekf&show_icons=true&theme=radical)  
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurdekf&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdekf&layout=compact&theme=radical)
 
 ---

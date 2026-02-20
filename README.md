@@ -41,8 +41,7 @@ Tenho forte facilidade em aprender novas tecnologias através de documentação 
 
 ## 🌟 Estatísticas GitHub
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurdekf&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdekf&layout=compact&theme=radical)
+![Top Languages](https://img.shields.io/github/languages/top/Arthurdekf?style=for-the-badge&logo=github)
 
 ---
 

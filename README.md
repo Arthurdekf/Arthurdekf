@@ -39,12 +39,6 @@ Tenho forte facilidade em aprender novas tecnologias através de documentação 
 
 ---
 
-## 🌟 Estatísticas GitHub
-
-![Top Languages](https://img.shields.io/github/languages/top/Arthurdekf?style=for-the-badge&logo=github)
-
----
-
 ## 🎯 Objetivo Atual
 
 Buscando oportunidades remotas internacionais para crescimento profissional em desenvolvimento Front-End e Mobile.

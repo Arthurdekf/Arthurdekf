@@ -26,6 +26,10 @@ Tenho forte facilidade em aprender novas tecnologias através de documentação 
 
 ## 🚀 Projetos em destaque
 
+💵 WorldWideMoney
+- https://github.com/Arthurdekf/WorldWideMoney
+- Sistema Web Dashboard de análise do mercado financeiro.
+
 📱 Aplicativo de Eventos (TCC)
 - https://github.com/Arthurdekf/Celebr8
 - Sistema multiplataforma para centralização e divulgação de eventos.

@@ -1,55 +1,50 @@
-# 👋 Olá, eu sou o Arthur!
+# 👋 Hi, I'm Arthur!
 
-🎓 Formado em Engenharia de Software  
-💻 Desenvolvedor Full-Stack com foco em Front-End  
-🚀 Apaixonado por tecnologia, jogos e produtos digitais
-
-Fã da Apple, Sony, Volkswagen e Rockstar (as vezes Bethesda)
-
----
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor com experiência em:
-
-- Java (Spring boot, RMI, Swing)
-- HTML, CSS, JavaScript, ReactJS
-- Flutter & FlutterFlow
-- Firebase (NoSQL)
-- C / Redes Neurais (MLP + Backpropagation)
-- Unity (C#)
-
-
-Tenho forte facilidade em aprender novas tecnologias através de documentação e prática.
+🎓 Software Engineering Graduate
+💻 Full-Stack Developer focused on Web and Mobile systems
+🚀 Passionate about technology, gaming, and digital products
+Fan of Apple, Sony, Volkswagen, and Rockstar
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧠 About Me
+
+I'm a developer with experience in:
+
+**Languages & Paradigms:** Java, JavaScript, Swift, C (Neural Networks, MLP, Backpropagation), OOP (Object-Oriented Programming), Algorithms, and Data Structures.
+
+**Backend & Engineering:** Spring Boot, REST APIs, JPA, Hibernate, Maven, Architectural Patterns (MVC, MVP, MVVM), JSF, and JSP.
+
+**Frontend & Mobile:** React, React Native, Swift, Flutter, HTML5, CSS.
+
+**Databases & Infra:** PostgreSQL, Oracle SQL, Firebase, Git, CI (Continuous Integration), and Linux/macOS Environments.
+
+**Quality & Testing:** JUnit, Mockito, and RTL (React Testing Library).
+
+**Complementary Technologies:** AWS (Basic), Angular (Basic), Unity / C# (Basic).
+
+I have a strong ability to learn new technologies quickly through documentation and practice.
+
+---
+
+## 🚀 GitHub Projects
 
 💵 WorldWideMoney
 - https://github.com/Arthurdekf/WorldWideMoney
-- Sistema Web Dashboard de análise do mercado financeiro.
+- Web Money Business Dashboard
 
-📱 Aplicativo de Eventos (TCC)
+📱 Celebr8 (TCC)
 - https://github.com/Arthurdekf/Celebr8
 - Sistema multiplataforma para centralização e divulgação de eventos.
 
-🎮 Jogo de Corrida em Unity
+🎮 Racing car game Unity
 - https://github.com/Arthurdekf/RacingShooter
 - Projeto com sistema de pontuação, tiros e publicação web.
 
 🧠 Implementação de Rede Neural MLP em C  
-- Classificação do Rice Dataset (Cammeo x Osmancik).
+- Classification of Rice Dataset (Cammeo x Osmancik).
 
----
-
-## 🎯 Objetivo Atual
-
-Buscando oportunidades remotas internacionais para crescimento profissional em desenvolvimento Front-End e Mobile.
-
----
-
-## 📫 Contato
+## 📫 Contact
 
 LinkedIn: https://linkedin.com/in/arthur-fedeli-696a9020b
 

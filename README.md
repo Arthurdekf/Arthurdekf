@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Arthur!
 
 🎓 Software Engineering Graduate
+
 💻 Full-Stack Developer focused on Web and Mobile systems
+
 🚀 Passionate about technology, gaming, and digital products
+
 Fan of Apple, Sony, Volkswagen, and Rockstar
 
 ---
